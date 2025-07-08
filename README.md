@@ -11,7 +11,7 @@ This repository contains a Power BI dashboard project that analyses and visualis
 ## 📂 Contents
 
 - `dashboard.pbix` – Main Power BI dashboard file
-- `data/` – Source data files (Excel/CSV)
+- `data` – Source data files (Excel/CSV)
 - `screenshots/` – Optional preview images of the dashboard
 - `README.md` – Project overview
 
